@@ -1,0 +1,13 @@
+{
+	"name": "safer-url",
+	"type": "module",
+	"version": "1.0.0",
+	"exports": {
+		".": {
+			"types": "./index.d.ts",
+			"require": "./index.cjs",
+			"default": "./index.js"
+		}
+	},
+	"sideEffects": false
+}
